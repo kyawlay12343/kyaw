@@ -1,15 +1,18 @@
 {
-// version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
-//link for server update
-"Url":"https://github.com/kyawlay12343/kyaw/raw/main/misc.zip" ,
+//အပ်ဒိတ်အတွက် ဗားရှင်း၊ အပ်ဒိတ်ရှိပါက၊ ယခင်ထက် နံပါတ်များ ပိုမိုပြောင်းလဲရန် လိုအပ်ပါသည်။
+"Version":"1.0",
+//ဆာဗာ အပ်ဒိတ်
+"Url":"https://github.com/HeinMinLattVPN/HeinMinLatt/blob/main/heinlay.zip?raw=true" ,
 "Changelog":"
-Latest update 01/12/2022
-TRUE No Pro
-DTAC No Pro
-Edit the TRUE file.
-Edit DTAC files
-Add function to page load
+1.0 Updated
+Thailand Server Free
+
+ZMH GP
+GoodSpeed
+FREE NET VPN
+🙏Thank you for your encouragement🙏
+
+ 
 ",
  
  
@@ -17,7 +20,7 @@ Add function to page load
  
  
  
-// don't mess with the bottom
+//Myanmar
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",
